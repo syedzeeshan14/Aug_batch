@@ -16,6 +16,7 @@ System.out.println("Welcome All of you");
 	abc.rollno=990;
 	System.out.println("Roll No is:"+abc.rollno);
 	abc.display1();
+	System.out.println("Nothing");
 	abc.display2();
 	
 	
